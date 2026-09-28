@@ -18,8 +18,6 @@
 
 <p align="center"><b><a href="https://shorturl.at/Url1s">View the interactive report</a></b></p>
 
-![Growth and Profitability page](Screenshots/EcommerceGrowth.png)
-
 ---
 
 ## Business problem
