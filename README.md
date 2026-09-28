@@ -187,7 +187,7 @@ Power BI Desktop, DAX, Power Query, ZoomCharts Drill Down PRO visuals, PowerPoin
 **Emeka Victor Prince**
 Junior Data Analyst | Co-Lead, Plasma Africa
 
-This project is part of a structured 20-project professional portfolio covering Sales & Revenue Analytics, Healthcare Analytics, HR & Workforce Analytics, Finance & Investment Analytics, and Supply Chain & Operations Analytics — built end-to-end using Excel, Power Query, SQL Server, and Power BI.
+This project is part of a structured 20-project professional portfolio covering Sales & Revenue Analytics, Healthcare Analytics, HR & Workforce Analytics, Finance & Investment Analytics, and Supply Chain & Operations Analytics, built end-to-end using Excel, Power Query, SQL Server, and Power BI.
 
 ## Tech Stack
 
