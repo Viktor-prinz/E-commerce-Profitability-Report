@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="Screenshots/nordhaven_logo1.png" alt="Nordhaven logo" width="120">
+  <img src="Screenshots/nordhaven_logo2.png" alt="Nordhaven logo" width="120">
 </p>
 
 <h1 align="center">Nordhaven: E-commerce Profitability Analytics</h1>
