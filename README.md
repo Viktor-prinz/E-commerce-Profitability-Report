@@ -180,9 +180,20 @@ After submission the report was validated for participation and came back with u
 
 Power BI Desktop, DAX, Power Query, ZoomCharts Drill Down PRO visuals, PowerPoint (layout design), Excel (source data).
 
-## Author
+---
 
-**Emeka Victor Prince**, data analyst in training at Attueyi Coding Academy (ACA), Nigeria.
-[LinkedIn](INSERT_LINKEDIN_URL)
+## Tech Stack
 
-Dataset and challenge by [ZoomCharts](https://zoomcharts.com).
+**Data & Analytics**
+
+![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black)
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white)
+![Power Query](https://img.shields.io/badge/Power%20Query-0071CE?style=flat&logo=microsoft&logoColor=white)
+![DAX](https://img.shields.io/badge/DAX-F2C811?style=flat&logo=powerbi&logoColor=black)
+
+**Blockchain & On-Chain Research**
+
+![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=flat&logo=ethereum&logoColor=white)
+![Dune Analytics](https://img.shields.io/badge/Dune%20Analytics-FF7B00?style=flat&logoColor=white)
+![Web3](https://img.shields.io/badge/Web3-F16822?style=flat&logo=web3.js&logoColor=white)
