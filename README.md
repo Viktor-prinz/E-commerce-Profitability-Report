@@ -182,6 +182,13 @@ Power BI Desktop, DAX, Power Query, ZoomCharts Drill Down PRO visuals, PowerPoin
 
 ---
 
+## About the Author
+
+**Emeka Victor Prince**
+Junior Data Analyst | Co-Lead, Plasma Africa
+
+This project is part of a structured 20-project professional portfolio covering Sales & Revenue Analytics, Healthcare Analytics, HR & Workforce Analytics, Finance & Investment Analytics, and Supply Chain & Operations Analytics — built end-to-end using Excel, Power Query, SQL Server, and Power BI.
+
 ## Tech Stack
 
 **Data & Analytics**
@@ -197,3 +204,8 @@ Power BI Desktop, DAX, Power Query, ZoomCharts Drill Down PRO visuals, PowerPoin
 ![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=flat&logo=ethereum&logoColor=white)
 ![Dune Analytics](https://img.shields.io/badge/Dune%20Analytics-FF7B00?style=flat&logoColor=white)
 ![Web3](https://img.shields.io/badge/Web3-F16822?style=flat&logo=web3.js&logoColor=white)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Emeka%20Victor%20Prince-0071CE?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victor-prince)
+[![GitHub](https://img.shields.io/badge/GitHub-Viktor--prinz-041F41?style=flat&logo=github&logoColor=white)](https://github.com/Viktor-prinz)
+[![X / Twitter](https://img.shields.io/badge/X-Viktor_prinz-000000?style=flat&logo=x&logoColor=white)](https://x.com/Viktor_prinzz)
+[![Linktree](https://img.shields.io/badge/Linktree-Viktor_prinz-42e661?style=flat&logo=Linktree&logoColor=green)](https://linktr.ee/viktor_prinz?utm_source=linktree_profile_share&ltsid=76ff3855-150d-4d74-895e-87e456223fc3)
