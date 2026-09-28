@@ -178,21 +178,6 @@ After submission the report was validated for participation and came back with u
 2. Turn on breadcrumbs for drillable ZoomCharts visuals so users always see where they are in a hierarchy.
 3. Restyle default controls, such as the visuals' built-in help icons and the year buttons, so they belong to the same design system as the custom elements.
 
-## Repository structure
-
-```
-nordhaven-ecommerce-profitability/
-├── README.md
-├── powerbi/
-│   └── Nordhaven_Ecommerce_Profitability.pbix
-├── screenshots/
-│   ├── 01_growth_and_profitability.png
-│   ├── 02_customers_and_markets.png
-│   └── 03_operational_performance.png
-└── assets/
-    └── nordhaven_logo.png
-```
-
 ## Tools
 
 Power BI Desktop, DAX, Power Query, ZoomCharts Drill Down PRO visuals, PowerPoint (layout design), Excel (source data).
