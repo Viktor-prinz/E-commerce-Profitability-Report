@@ -16,7 +16,7 @@
   <img src="https://img.shields.io/badge/ZoomCharts-Drill_Down_PRO-F2A900" alt="ZoomCharts Drill Down PRO">
 </p>
 
-<p align="center"><b><a href="INSERT_REPORT_LINK">View the interactive report</a></b></p>
+<p align="center"><b><a href="https://shorturl.at/Url1s">View the interactive report</a></b></p>
 
 ![Growth and Profitability page](Screenshots/EcommerceGrowth.png)
 
