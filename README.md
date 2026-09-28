@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="images/nordhaven_logo2.png" alt="Nordhaven logo" width="120">
+  <img src="Screenshots/nordhaven_logo2.png" alt="Nordhaven logo" width="120">
 </p>
 
 <h1 align="center">Nordhaven: E-commerce Profitability Analytics</h1>
@@ -18,7 +18,7 @@
 
 <p align="center"><b><a href="INSERT_REPORT_LINK">View the interactive report</a></b></p>
 
-![Growth and Profitability page](images/EcommerceGrowth.png)
+![Growth and Profitability page](Screenshots/EcommerceGrowth.png)
 
 ---
 
@@ -77,7 +77,7 @@ A star schema with one fact table, nine dimensions and twelve relationships.
 
 *How do gross sales turn into profit?*
 
-![Growth and Profitability](images/EcommerceGrowth.png)
+![Growth and Profitability](Screenshots/EcommerceGrowth.png)
 
 - **Trend** (Timeline PRO): net sales as bars and contribution margin % as a line, drillable from year down to day.
 - **Contribution margin bridge** (Waterfall PRO): gross sales through discounts, refunds, shipping revenue, product cost, fulfillment and shipping cost, and marketing and payment cost, landing on contribution margin. Drills by department and category.
@@ -88,7 +88,7 @@ A star schema with one fact table, nine dimensions and twelve relationships.
 
 *Who buys, who stays, and where?*
 
-![Customers and Markets](images/EcommerceCustomers.png)
+![Customers and Markets](Screenshots/EcommerceCustomers.png)
 
 - **Retention by cohort age** (Bubble PRO): retention rate against months since first purchase, sized by active customers and coloured by lifecycle stage (Acquisition, Early repeat, Developing, Mature).
 - **Customer segment** (Combo PRO): net sales and contribution margin by segment, drilling into loyalty tier.
@@ -99,7 +99,7 @@ A star schema with one fact table, nine dimensions and twelve relationships.
 
 *Where is value leaking?*
 
-![Operational Performance](images/EcommercePerformance.png)
+![Operational Performance](Screenshots/EcommercePerformance.png)
 
 - **Promotions** (Combo PRO): net sales and contribution margin by promotion objective, drilling into campaign.
 - **Lost sales** (Combo Bar PRO): estimated lost sales value by category and product.
